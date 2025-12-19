@@ -1,6 +1,6 @@
 public class ClientController implements Observador {
 	public ProveedorFacade _unnamed_ProveedorFacade_;
-	public EstrategiaValidación_ _unnamed_EstrategiaValidación__;
+	public EstrategiaValidacion_ _unnamed_EstrategiaValidacion__;
 	public Restaurante _unnamed_Restaurante_;
 
 	public void verProductos() {
